@@ -11,3 +11,10 @@ Script Desenvolvido para facilitar tarefas repetitivas
 
 
 
+
+
+
+## Referência
+
+ - [Documentação PyAutoGUI](https://pypi.org/project/PyAutoGUI/)
+ - [Documentação Python](https://python.org/)
