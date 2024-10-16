@@ -7,4 +7,7 @@ Script de Automação de Tarefas de Cadastros de Agentes (Usuários), e Perfil P
 
 Script Desenvolvido para facilitar tarefas repetitivas
 
+![image](https://github.com/user-attachments/assets/520c3352-948d-429b-87a3-b89de2a3c4a8)
+
+
 
