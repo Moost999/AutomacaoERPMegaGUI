@@ -16,7 +16,14 @@ Script Desenvolvido para facilitar tarefas repetitivas | Script de Automação D
 
 ![image](https://github.com/user-attachments/assets/9626855e-84ae-4f6c-8b4e-294e3c8913f1)
 
-#Download Documentação em Word
+## Bot Rodando
+
+
+https://github.com/user-attachments/assets/6c4ce67e-2615-4601-971b-c6dde9b52f6e
+
+
+
+## Download Documentação em Word
 [TutorialAutomaçao.docx](https://github.com/user-attachments/files/17398892/TutorialAutomacao.docx)
 
 
