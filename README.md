@@ -1,1 +1,10 @@
-![image](https://github.com/user-attachments/assets/470ec391-1855-4155-98f5-5c20e0696ce0)
+
+## Automação Sistema Mega ERP 
+### Python | PyAutoGUI
+
+Script de Automação de Tarefas de Cadastros de Agentes (Usuários), e Perfil Por Organização
+
+
+Script Desenvolvido para facilitar tarefas repetitivas
+
+
