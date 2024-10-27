@@ -19,7 +19,11 @@ Script Desenvolvido para facilitar tarefas repetitivas | Script de Automação D
 ## Bot Rodando
 
 
-https://github.com/user-attachments/assets/6c4ce67e-2615-4601-971b-c6dde9b52f6e
+
+
+
+https://github.com/user-attachments/assets/bac77acd-dd6a-4131-b4ae-91662a34dab2
+
 
 
 
