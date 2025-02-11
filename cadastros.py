@@ -25,14 +25,14 @@ pyautogui.moveTo(322, 302)
 pyautogui.click()
 time.sleep(2)
 
-pyautogui.typewrite("56388324835")
+pyautogui.typewrite("")# cpf
 pyautogui.press('enter')
 
 #move se para preenchero nome na abas (AGENTES)
 
 pyautogui.moveTo(203, 340)
 pyautogui.click()
-pyautogui.typewrite("JOAO VITOR GIONDA")
+pyautogui.typewrite("JOAO VITOR")
 pyautogui.press('enter')
 
 time.sleep(2)
@@ -41,20 +41,20 @@ time.sleep(2)
 pyautogui.moveTo(264, 260)
 pyautogui.click()
 time.sleep(2)
-pyautogui.typewrite('jvgionda@hotmail.com') # INSIRA O EMAIL
+pyautogui.typewrite('email') # INSIRA O EMAIL
 
 time.sleep(2)
 
 pyautogui.moveTo(474, 232)
 pyautogui.click()
 time.sleep(2)
-pyautogui.typewrite('jvgionda@hotmail.com')
+pyautogui.typewrite('email')
 time.sleep(2)
 
 pyautogui.moveTo(734, 229)
 pyautogui.click()
 time.sleep(2)
-pyautogui.typewrite('jvgionda@hotmail.com')
+pyautogui.typewrite('email')
 time.sleep(2)
 pyautogui.moveTo(533, 279)
 time.sleep(2)
@@ -92,7 +92,7 @@ time.sleep(2)
 pyautogui.moveTo(190, 235)
 pyautogui.click()
 time.sleep(2)
-pyautogui.typewrite("Joao Vitor Gionda") # INSERE O NOME DO FUNCIONARIO
+pyautogui.typewrite("Joao Vitor") # INSERE O NOME DO FUNCIONARIO
 time.sleep(2)
 
 pyautogui.moveTo(190, 330)
